@@ -1,0 +1,60 @@
+python podstawy
+python funkcje
+python nauczanie maszynowe
+python dev ops
+python docker
+python web develop
+python flask
+python django
+python zmienne
+python typy danych
+python sql
+python bazy danych
+python rest api
+python sztuczna inteligencja
+python deep learning
+python zaawansowany
+python moduły
+python pakiety
+python operacje na plikach
+python programowanie obiektowe
+python pip
+python po polsku
+python listy
+python krotki
+python operatory
+python dla początkujących
+python cython
+python numpy
+python pypi
+python operatory matematyczne
+python string
+python jython
+python kubernetes
+python rpython
+python api
+python mysql
+python mongodb
+python postresql
+python web
+python słowniki
+python pętle
+python
+python dziedziczenie
+python generatory
+python iteratory
+python threading
+python wielowątkowość
+python datetime
+python internet
+python low level
+python gzip
+python compression
+python klasy
+python łańcuch
+python f-string
+python interpreter
+python windows
+python exe
+python linux
+python sqlite
