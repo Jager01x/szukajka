@@ -4,4 +4,5 @@ Szukajka przeznaczona do pobrania i segregacji linków do filmów na YouTube wyk
 # instalacja 
 
 pip install youtube_search
+
 pip install langdetect
