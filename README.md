@@ -3,6 +3,6 @@ Szukajka przeznaczona do pobrania i segregacji linków do filmów na YouTube wyk
 
 # instalacja 
 
-pip install youtube_search
+<code>pip install youtube_search</code>
 
-pip install langdetect
+<code>pip install langdetect</code>
